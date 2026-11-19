@@ -131,10 +131,6 @@ Based on the Power BI dashboard:
 - The United States recorded the highest number of layoffs among the countries displayed.
 - Amazon, Google and Ericsson were among the companies with the highest layoffs.
 
-## Dashboard Preview
-
-![Global Layoffs Analysis Dashboard](dashboard.png)
-
 ## Repository Structure
 
 ```text
